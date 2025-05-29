@@ -1,4 +1,4 @@
-# Grid-Tie Inverter Simulation Software
+# Grid-Tie Inverter Simulation Desktop App
 
 This is a desktop-app for simulating grid-tied inverters, supporting various topologies, control strategies, DC sources, and grid conditions. It provides a graphical interface for configuring parameters, visualizing waveforms, and performing frequency-domain analysis (Bode plots). The software is designed for modeling inverter behavior under different operating conditions.
 
