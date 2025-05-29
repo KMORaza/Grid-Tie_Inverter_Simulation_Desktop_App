@@ -241,5 +241,7 @@ This is a desktop-app for simulating grid-tied inverters, supporting various top
   - Gain = 20 * log10(|G|)
   - Phase = arg(G) * 180 / pi
 
+## Screenshots 
+
 | ![](https://github.com/KMORaza/Grid-Tie_Inverter_Simulation_Desktop_App/blob/main/Grid%20Tie%20Inverter%20Simulation%20-%20Desktop%20App/screenshot.png) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|
